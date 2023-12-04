@@ -6,3 +6,7 @@
 .grid-item {
     border: solid 1px black;
 }
+.grid-item img {
+    height: 100%;
+    width: 100%;
+}
